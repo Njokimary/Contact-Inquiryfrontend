@@ -44,6 +44,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Inquire with us today!
 
-## A Screenshot of the Form 
 
-(public/Screenshot.png)
