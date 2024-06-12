@@ -46,4 +46,4 @@ Inquire with us today!
 
 ## A Screenshot of the Form 
 
-![Contact Form Screenshot](public/Screenshot.png)
+(public/Screenshot.png)
