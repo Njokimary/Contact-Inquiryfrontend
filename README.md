@@ -43,3 +43,7 @@ We welcome contributions from the community to enhance the contact form feature.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Inquire with us today!
+
+## A Screenshot of the Form 
+
+![Contact Form Screenshot](public/Screenshot.png)
