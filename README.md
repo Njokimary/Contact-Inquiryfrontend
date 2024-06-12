@@ -17,6 +17,7 @@ npm or yarn
 ## Installation
 1: Clone the repository:
 git clone https://github.com/Njokimary/Contact-Inquiryfrontend
+
 cd Contact-Inquiryfrontend
 
 ## Install dependencies:
